@@ -1,0 +1,1 @@
+This repository contains examples demonstrating a common Perl error and its correct solution. The 'bug.pl' file shows incorrect comparison of 'undef' using the 'eq' operator.  The 'bugSolution.pl' shows the correct method using 'defined()'.
